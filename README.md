@@ -1,2 +1,2 @@
-# C40RV_SpeedRacer_ReferenceCode
-Teacher Reference Code
+# C40_Código de referencia_carreras de autos
+Código de referencia de la maestra
